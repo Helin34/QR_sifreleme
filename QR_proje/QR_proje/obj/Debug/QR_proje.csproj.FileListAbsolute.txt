@@ -1,0 +1,12 @@
+C:\Users\helin\source\repos\QR_proje\QR_proje\bin\Debug\QR_proje.exe.config
+C:\Users\helin\source\repos\QR_proje\QR_proje\bin\Debug\QR_proje.exe
+C:\Users\helin\source\repos\QR_proje\QR_proje\bin\Debug\QR_proje.pdb
+C:\Users\helin\source\repos\QR_proje\QR_proje\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\helin\source\repos\QR_proje\QR_proje\obj\Debug\QR_proje.csproj.AssemblyReference.cache
+C:\Users\helin\source\repos\QR_proje\QR_proje\obj\Debug\QR_proje.Form1.resources
+C:\Users\helin\source\repos\QR_proje\QR_proje\obj\Debug\QR_proje.Properties.Resources.resources
+C:\Users\helin\source\repos\QR_proje\QR_proje\obj\Debug\QR_proje.csproj.GenerateResource.cache
+C:\Users\helin\source\repos\QR_proje\QR_proje\obj\Debug\QR_proje.csproj.CoreCompileInputs.cache
+C:\Users\helin\source\repos\QR_proje\QR_proje\obj\Debug\QR_proje.csproj.CopyComplete
+C:\Users\helin\source\repos\QR_proje\QR_proje\obj\Debug\QR_proje.exe
+C:\Users\helin\source\repos\QR_proje\QR_proje\obj\Debug\QR_proje.pdb
